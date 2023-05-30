@@ -1,0 +1,7 @@
+com\chargepoint\util\ScheduleUtility.class
+com\chargepoint\service\ScheduleService.class
+com\chargepoint\strategy\ScheduleStrategy.class
+com\chargepoint\strategy\MaximumChargerUtilisationScheduleStrategy.class
+com\chargepoint\ScheduleApplication.class
+com\chargepoint\model\Charger.class
+com\chargepoint\model\Truck.class
