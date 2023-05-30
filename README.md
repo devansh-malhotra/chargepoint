@@ -17,6 +17,7 @@ Assumptions:
 5. Chargers can work simultaneously.
 
 Usage:
+
 To use the code, follow these steps:
 
 Define the list of trucks, chargers, and the specified time period in the main method of the ScheduleApplication class.
@@ -26,9 +27,11 @@ The method will return a map of chargers to a list of trucks that should be char
 Iterate over the map to access the assigned trucks for each charger and perform further operations as needed.
 
 Testing:
+
 The code includes JUnit tests to ensure the correctness of the getChargingSchedule method. The tests cover different scenarios and verify that the algorithm assigns the trucks to chargers correctly.
 
 To run the tests, execute the JUnit test class TruckChargingScheduleTest in your preferred IDE or build tool.
 
 Dependencies
+
 The code requires Java 8 or higher. The JUnit 5 library is used for testing.
